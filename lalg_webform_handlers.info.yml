@@ -1,0 +1,8 @@
+name: LALG Custom Webform Handlers
+type: module
+description: A module containing a custom webform handler
+core_version_requirement: ^8 || ^9
+package: Custom
+dependencies:
+  - 'webform:webform'
+version: "1.0"
